@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.tycana/tycana",
+  "title": "Tycana",
+  "description": "Gives your AI assistant persistent memory and intelligence about your work patterns.",
+  "websiteUrl": "https://www.tycana.com",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.tycana.com/mcp"
+    }
+  ]
+}
