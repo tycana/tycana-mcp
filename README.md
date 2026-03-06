@@ -1,6 +1,18 @@
-# Tycana MCP Server
+<p align="center">
+  <img src="tycana-logo.svg" alt="Tycana" width="300">
+</p>
 
-AI-native productivity backend — your AI thinks, Tycana remembers.
+<p align="center">
+  <strong>AI-native productivity backend — your AI thinks, Tycana remembers.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.tycana.com/getting-started/">Get Started</a> &middot;
+  <a href="https://www.tycana.com">Website</a> &middot;
+  <a href="https://www.tycana.com/mcp/">MCP Docs</a>
+</p>
+
+---
 
 ## What is Tycana?
 
