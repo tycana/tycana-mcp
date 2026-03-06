@@ -22,6 +22,10 @@ Tycana is a productivity backend built for AI reasoning, not human browsing. Con
 
 This isn't another task app with an AI bolted on. There's no UI to check, no lists to reorganize, no weekly reviews to dread. Tycana is infrastructure that sits behind your AI conversation, making every interaction smarter.
 
+<a href="https://glama.ai/mcp/servers/@tycana/tycana">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@tycana/tycana/badge" alt="Tycana MCP server" />
+</a>
+
 ## Quick Start
 
 ### 1. Sign up
